@@ -3,11 +3,11 @@
   <groupId>com.github.Ovulam5480</groupId>
   <artifactId>EntityAnno</artifactId>
   <versioning>
-    <latest>v0.0.3</latest>
-    <release>v0.0.3</release>
+    <latest>v0.0.4</latest>
+    <release>v0.0.4</release>
     <versions>
-      <version>v0.0.3</version>
+      <version>v0.0.4</version>
     </versions>
-    <lastUpdated>20261002022529</lastUpdated>
+    <lastUpdated>20261004101424</lastUpdated>
   </versioning>
 </metadata>

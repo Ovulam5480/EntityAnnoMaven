@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.Ovulam5480",
+    "module": "EntityAnno",
+    "version": "v0.0.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "EntityAnno-v0.0.4.jar",
+          "url": "EntityAnno-v0.0.4.jar",
+          "size": 14228,
+          "sha512": "066b958cd0ff688128d83b119016c89613de34248bf05a50058bd17a5a86932eb7cf957d4ba3dfc24a0f1f051f3b08e90bfd3f093f937b58ab91e0deff03afad",
+          "sha256": "24d719c9f6cfbb14b111a96316ccd9729e2a07a66c7e7c6eeea10192ab49a2df",
+          "sha1": "75e199b4025e1c312841e2226e8a7b9325af57fc",
+          "md5": "561d16b0004cdc67eceb815c862fbb57"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "Anuken",
+          "module": "Mindustry",
+          "version": {
+            "requires": "v160.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "EntityAnno-v0.0.4.jar",
+          "url": "EntityAnno-v0.0.4.jar",
+          "size": 14228,
+          "sha512": "066b958cd0ff688128d83b119016c89613de34248bf05a50058bd17a5a86932eb7cf957d4ba3dfc24a0f1f051f3b08e90bfd3f093f937b58ab91e0deff03afad",
+          "sha256": "24d719c9f6cfbb14b111a96316ccd9729e2a07a66c7e7c6eeea10192ab49a2df",
+          "sha1": "75e199b4025e1c312841e2226e8a7b9325af57fc",
+          "md5": "561d16b0004cdc67eceb815c862fbb57"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "EntityAnno-v0.0.4-javadoc.jar",
+          "url": "EntityAnno-v0.0.4-javadoc.jar",
+          "size": 4165090,
+          "sha512": "84379a7479f71bdbef10f1b7683938cd2535e62aac2e9b8dbd388ff4d8f1af576cd39f72c417db1e634216889edb495d3aaece9d9bf5f0f1fdc4a442c1c07abe",
+          "sha256": "1290b9baf6d6ff95f8b96a0c1fb8b9cf3d0a772217764b42773e951c1ec376f6",
+          "sha1": "fddff28d70d7904e3642642dfa2c1da33575d8d9",
+          "md5": "fff23d4ca3ef06f38a6d045692fc3291"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "EntityAnno-v0.0.4-sources.jar",
+          "url": "EntityAnno-v0.0.4-sources.jar",
+          "size": 5471,
+          "sha512": "8483bbf06bd92e7e9f2fe557f5041d7e770855455167d8c5ec62587394f869a43c2c0022d1432aeb5918295ccc947bd3c6fc56ade4c9ed618f1323228aa9668d",
+          "sha256": "2aa63823b282a141d7a6f8dcd7b314cad83072175a107ba58451ff7be917439c",
+          "sha1": "cf138ac1b0f7bb5c20c6e560116ff5dd664ad7d2",
+          "md5": "d7f722762443491423e0a754e6ba3ea2"
+        }
+      ]
+    }
+  ]
+}
