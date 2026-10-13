@@ -3,11 +3,11 @@
   <groupId>com.github.Ovulam5480.EntityAnno</groupId>
   <artifactId>com.github.Ovulam5480.EntityAnno.gradle.plugin</artifactId>
   <versioning>
-    <latest>v0.0.5</latest>
-    <release>v0.0.5</release>
+    <latest>v160.0.0</latest>
+    <release>v160.0.0</release>
     <versions>
-      <version>v0.0.5</version>
+      <version>v160.0.0</version>
     </versions>
-    <lastUpdated>20261007143252</lastUpdated>
+    <lastUpdated>20261013082422</lastUpdated>
   </versioning>
 </metadata>
